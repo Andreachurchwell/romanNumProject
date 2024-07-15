@@ -1,0 +1,30 @@
+#mainC {
+    width: 70vw;
+    height: 50vh;
+    background-color: purple;
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border: 5px solid black;
+
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+#convert-btn {
+    border: 2px solid black;
+    margin-top: 2%;
+    border-radius: 2px;
+
+}
+#output{
+    font-weight: 900;
+    font-size: 30px;
+    
+}
